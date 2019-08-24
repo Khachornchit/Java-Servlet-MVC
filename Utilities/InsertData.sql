@@ -1,0 +1,1 @@
+INSERT INTO `coffee`.`login` (`username`, `password`) VALUES ("user1", "user1");
